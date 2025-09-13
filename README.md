@@ -1,79 +1,97 @@
-<h1 align="center">Hey there! 👋 I'm Abhay Chaurasia</h1>
-<h3 align="center">Full Stack Developer | CS Student | Passionate Builder of the Web</h3>
+<h1 align="center">👋 Hey there! I'm Abhay Chaurasia</h1>
+<h3 align="center">Final-Year CS Student | Full Stack & AI Developer | Passionate Builder of Scalable Web Apps</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🎓 Third-year Computer Science student at Dr. Bhimrao Ambedkar University, Agra (Khandari) 
-- 💻 Full Stack Developer with a love for turning ideas into real, scalable web applications
-- 🧠 Solid foundation in Java, Data Structures & Algorithms, and modern web development
-- 🔥 Experienced in building dynamic UIs and integrating APIs for real-world use
-- 🤝 Always ready to collaborate, learn, and grow in tech communities
+- 🎓 Final-year Computer Science student at **Dr. Bhimrao Ambedkar University, Agra (Khandari)**  
+- 💻 Full Stack Developer passionate about **building scalable products** that solve real-world problems  
+- 🧠 Strong foundation in **Data Structures & Algorithms (Java)**, and hands-on experience in **modern web technologies**  
+- 🌐 Experienced in **end-to-end application development** — from UI/UX design to backend systems and deployment  
+- 🤝 Open to collaborations, open-source contributions, and exciting internship/full-time opportunities  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 **Frontend:**  
-`React.js` `Tailwind CSS` `JavaScript` `HTML` `CSS`  
+`Next.js` `React.js` `Tailwind CSS` `JavaScript` `TypeScript` `HTML` `CSS`  
 
 **Backend:**  
-`Node.js` `Express.js` `MongoDB` `Mongoose`
+`Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.io` `Firebase`  
 
 **Other Tools & Skills:**  
-`Git & GitHub` `Postman` `Figma` `Wakatime` `TanStack Query`
+`Git & GitHub` `Postman` `Figma` `Wakatime` `TanStack Query` `REST APIs`  
 
 **Languages:**  
-`Java` `JavaScript`
+`Java` `Python` `JavaScript` `TypeScript`  
 
-**Currently Learning:**  
-`Authentication` `MERN Stack Projects` `Advanced APIs`
-
----
-
-## 🚀 Highlight Projects
-
-| Project | Description | Tech Used |
-| ------ | ----------- | --------- |
-| 🌐 **College Website** | Informational portal for college updates | HTML, CSS, JS |
-| ⚡ **Pokémon Explorer** | Explore Pokémon data via external API | React, Axios, Tailwind |
-| ✅ **To-Do List App** | Manage daily tasks with clean UI | JavaScript, HTML, CSS |
-| 🌍 **Explore the World App** | Travel explorer using location-based API | React, Tailwind |
-| 🎬 **Netflix Clone** | Frontend clone with movie categories | React, CSS |
-| 🧾 **Coming Soon: MERN Blog App** | Full-stack blog platform | MERN Stack (WIP) |
-
-👉 [Explore My GitHub Projects](https://github.com/abhay2321?tab=repositories)
+**Currently Exploring:**  
+`Advanced Authentication` `Geo-location APIs` `Scalable MERN/Next.js Projects` `AI-Powered Apps`  
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects  
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay2321&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay2321&layout=compact&theme=react)
+### 🔹 [CareerZenith-AI](https://career-zenith-ai.vercel.app)  
+📌 **GitHub Repo:** [CareerZenith-AI](https://github.com/abhay2321/CareerZenith-AI)  
+- 🚀 Full-stack **AI-powered career guidance platform** built with **Next.js**  
+- 🤖 Integrates AI models to provide personalized career suggestions  
+- 🔐 Features **secure authentication**, dynamic dashboards, and responsive design  
+- 🌍 Deployed on **Vercel** for seamless performance  
+
+---
+
+### 🔹 MERN E-Commerce Platform  
+- 🛒 Complete **E-commerce solution** built with **MERN stack**  
+- 🖼️ Features include **user authentication, product management, cart, and payment flow**  
+- 📊 Implemented **REST APIs** with JWT-based authentication and admin controls  
+- 🎨 Focused on delivering a clean, responsive, and user-friendly shopping experience  
+
+---
+
+### 🔹 Food Delivery Platform (Work in Progress ~70%)  
+- 🍴 A full-stack **multi-role food delivery system** with:  
+  - **User Section** – signup, login, OTP-based password reset, location-based ordering  
+  - **Owner Section** – menu management, live order tracking, delivery status updates  
+  - **Delivery Boy Section** – gets notified when an order is out for delivery, real-time location fetch using **Geoapify**, and first-accept delivery assignment system  
+- 🔔 Real-time notifications via **Socket.io** for seamless coordination  
+- 🌍 Smart **geo-tracking** between user and delivery boy for live delivery updates  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay2321&show_icons=true&theme=react" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay2321&layout=compact&theme=react" height="150" />
+</p>  
 
 ⏱️ **Wakatime Stats:**  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhay2321&theme=react)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhay2321&theme=react)  
 
 👁️‍🗨️ **Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=abhay2321&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=abhay2321&style=flat-square&color=blue)  
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025 Goals  
 
-- [ ] Build and deploy a complete MERN Stack application
-- [ ] Contribute to 3+ open-source projects
-- [ ] Start a developer blog or portfolio website
-- [ ] Land a Full Stack Internship or Remote Dev Role
-
----
-
-## 🎵 Outside the Code
-
-Beyond the screen, I enjoy songwriting, music, and anything that sparks creativity 🎧  
-I'm always curious and ready to learn new things — in tech and in life.
+- [ ] Deploy **Food Delivery Platform** with all 3 sections fully functional  
+- [ ] Contribute to **open-source projects** (at least 3 meaningful PRs)  
+- [ ] Build a personal **developer portfolio & blog** with Next.js  
+- [ ] Secure a **Full Stack Internship/Job opportunity**  
+- [ ] Dive deeper into **AI/ML integrations** with full-stack apps  
 
 ---
 
-_Thanks for visiting! Let's connect, collaborate, and build cool things together 🚀_
+## 🌱 Beyond Code  
+
+🎶 I love **songwriting & music**, which keeps my creativity alive  
+📚 Always curious to explore **new tech, tools, and ideas**  
+💡 Firm believer in **learning by building**  
+
+---
+
+<p align="center">✨ Thanks for visiting my profile — let’s connect, collaborate, and build amazing things together 🚀</p>
